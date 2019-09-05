@@ -8,3 +8,5 @@
 /tmp/
 
 Gemfile.lock
+lib/charty-backends-jfreechart_jars.rb
+lib/org
