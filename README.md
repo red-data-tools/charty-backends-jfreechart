@@ -44,23 +44,23 @@ bar.render("sample_images/bar_jfreechart.png")
 
 ### bar
 
-![](https://github.com/284km/charty-backends-jfreechart/blob/master/sample_images/bar_jfreechart.png)
+![](https://github.com/red-data-tools/charty-backends-jfreechart/blob/master/sample_images/bar_jfreechart.png)
 
 ### barh
 
-![](https://github.com/284km/charty-backends-jfreechart/blob/master/sample_images/barh_jfreechart.png)
+![](https://github.com/red-data-tools/charty-backends-jfreechart/blob/master/sample_images/barh_jfreechart.png)
 
 ### bubble
 
-![](https://github.com/284km/charty-backends-jfreechart/blob/master/sample_images/bubble_jfreechart.png)
+![](https://github.com/red-data-tools/charty-backends-jfreechart/blob/master/sample_images/bubble_jfreechart.png)
 
 ### curve
 
-![](https://github.com/284km/charty-backends-jfreechart/blob/master/sample_images/curve2_jfreechart.png)
+![](https://github.com/red-data-tools/charty-backends-jfreechart/blob/master/sample_images/curve2_jfreechart.png)
 
 ### scatter
 
-![](https://github.com/284km/charty-backends-jfreechart/blob/master/sample_images/scatter_jfreechart.png)
+![](https://github.com/red-data-tools/charty-backends-jfreechart/blob/master/sample_images/scatter_jfreechart.png)
 
 ## Development
 
@@ -70,7 +70,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/284km/charty-backends-jfreechart. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/red-data-tools/charty-backends-jfreechart. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
@@ -78,4 +78,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Charty::Backends::Jfreechart project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/284km/charty-backends-jfreechart/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Charty::Backends::Jfreechart project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/red-data-tools/charty-backends-jfreechart/blob/master/CODE_OF_CONDUCT.md).

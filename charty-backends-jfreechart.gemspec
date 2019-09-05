@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Charty JFreeChart backend adapter}
   spec.description   = %q{Charty JFreeChart backend adapter}
-  spec.homepage      = "https://github.com/284km/charty-backends-jfreechart"
+  spec.homepage      = "https://github.com/red-data-tools/charty-backends-jfreechart"
   spec.license       = "MIT"
 
   spec.platform = "java"
@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'jar-dependencies'
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/284km/charty-backends-jfreechart"
+  spec.metadata["source_code_uri"] = "https://github.com/red-data-tools/charty-backends-jfreechart"
   # spec.metadata["changelog_uri"] = ""
 
   # Specify which files should be added to the gem when it is released.
