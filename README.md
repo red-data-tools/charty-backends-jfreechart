@@ -40,6 +40,28 @@ end
 bar.render("sample_images/bar_jfreechart.png")
 ```
 
+## Images
+
+### bar
+
+![](https://github.com/284km/charty-backends-jfreechart/blob/master/sample_images/bar_jfreechart.png)
+
+### barh
+
+![](https://github.com/284km/charty-backends-jfreechart/blob/master/sample_images/barh_jfreechart.png)
+
+### bubble
+
+![](https://github.com/284km/charty-backends-jfreechart/blob/master/sample_images/bubble_jfreechart.png)
+
+### curve
+
+![](https://github.com/284km/charty-backends-jfreechart/blob/master/sample_images/curve2_jfreechart.png)
+
+### scatter
+
+![](https://github.com/284km/charty-backends-jfreechart/blob/master/sample_images/scatter_jfreechart.png)
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake test` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
