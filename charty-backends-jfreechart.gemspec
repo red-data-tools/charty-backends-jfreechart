@@ -14,6 +14,7 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
 
   spec.platform = "java"
+  spec.requirements << "jar org.jfree:jfreechart, 1.0.19"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/284km/charty-backends-jfreechart"
