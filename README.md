@@ -24,7 +24,7 @@ Or install it yourself as:
 
 see also https://github.com/red-data-tools/charty#examples
 
-```
+```ruby
 require "charty-backends-jfreechart"
 charty = Charty::Plotter.new(:jfreechart)
 
