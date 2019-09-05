@@ -1,6 +1,7 @@
 require "charty/backends/jfreechart/version"
 require "charty"
 require "charty-backends-jfreechart_jars"
+require "fileutils"
 java_import 'org.jfree.chart.ChartFactory'
 java_import 'org.jfree.chart.ChartUtilities'
 java_import 'org.jfree.chart.plot.PlotOrientation'
