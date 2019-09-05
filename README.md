@@ -22,7 +22,23 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+see also https://github.com/red-data-tools/charty#examples
+
+```
+require "charty-backends-jfreechart"
+charty = Charty::Plotter.new(:jfreechart)
+
+bar = charty.bar do
+  series [0,1,2,3,4], [10,40,20,90,70], label: "sample1"
+  series [0,1,2,3,4], [90,80,70,60,50], label: "sample2"
+  series [0,1,2,3,4,5,6,7,8], [50,60,20,30,10, 90, 0, 100, 50], label: "sample3"
+  range x: 0..10, y: 1..100
+  xlabel 'foo'
+  ylabel 'bar'
+  title 'bar plot'
+end
+bar.render("sample_images/bar_jfreechart.png")
+```
 
 ## Development
 
