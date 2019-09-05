@@ -8,3 +8,8 @@ Rake::TestTask.new(:test) do |t|
 end
 
 task :default => :test
+
+require "jars/installer"
+task :install_jars do
+  Jars::Installer.vendor_jars!
+end
