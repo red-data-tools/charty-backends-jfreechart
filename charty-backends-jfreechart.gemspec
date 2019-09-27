@@ -4,7 +4,7 @@ require "charty/backends/jfreechart/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "charty-backends-jfreechart"
-  spec.version       = Charty::Backends::Jfreechart::VERSION
+  spec.version       = Charty::Backends::JFreeChart::VERSION
   spec.authors       = ["284km"]
   spec.email         = ["k.furuhashi10@gmail.com"]
 

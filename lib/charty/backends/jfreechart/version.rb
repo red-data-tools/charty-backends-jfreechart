@@ -1,6 +1,6 @@
 module Charty
   module Backends
-    module Jfreechart
+    class JFreeChart
       VERSION = "0.2.0"
     end
   end
